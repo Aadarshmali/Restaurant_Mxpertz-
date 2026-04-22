@@ -42,7 +42,7 @@ const dishes = [
     name: "Egg Royal Croissant",
     price: "$14.00",
     description: "Flaky pastry filled with creamy eggs and aged cheese.",
-    image: "https://images.unsplash.com/photo-1516685018646-549d295b4d22?auto=format&fit=crop&w=600&q=80",
+    image: "https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=600&q=80",
   },
 ];
 
@@ -56,7 +56,7 @@ export default function MenuSection() {
         <h1>Popular Categories</h1> 
       </div>
 
-      <div className="grid gap-6 md:grid-cols-2 xl:grid-cols-4">
+      <div className="flex flex-row gap-6 justify-center items-center flex-wrap">
         {categories.map((category) => (
           <CategoryCard
             key={category.name}

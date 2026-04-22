@@ -37,17 +37,17 @@ export default function Footer() {
           <h2 className="mb-5 text-sm font-semibold uppercase tracking-[0.24em] text-slate-900">Useful links</h2>
           <ul className="space-y-3 text-base text-slate-600">
             <li>
-              <a href="#about" className="transition hover:text-slate-900">
+              <a href="about" className="transition hover:text-slate-900">
                 About us
               </a>
             </li>
             <li>
-              <a href="#offers" className="transition hover:text-slate-900">
+              <a href="offers" className="transition hover:text-slate-900">
                 Events
               </a>
             </li>
             <li>
-              <a href="#menu" className="transition hover:text-slate-900">
+              <a href="menu" className="transition hover:text-slate-900">
                 Blogs
               </a>
             </li>
@@ -63,22 +63,22 @@ export default function Footer() {
           <h2 className="mb-5 text-sm font-semibold uppercase tracking-[0.24em] text-slate-900">Main menu</h2>
           <ul className="space-y-3 text-base text-slate-600">
             <li>
-              <a href="#home" className="transition hover:text-slate-900">
+              <a href="home" className="transition hover:text-slate-900">
                 Home
               </a>
             </li>
             <li>
-              <a href="#offers" className="transition hover:text-slate-900">
+              <a href="offers" className="transition hover:text-slate-900">
                 Offers
               </a>
             </li>
             <li>
-              <a href="#menu" className="transition hover:text-slate-900">
+              <a href="menu" className="transition hover:text-slate-900">
                 Menus
               </a>
             </li>
             <li>
-              <a href="#about" className="transition hover:text-slate-900">
+              <a href="about" className="transition hover:text-slate-900">
                 Reservation
               </a>
             </li>
@@ -88,7 +88,7 @@ export default function Footer() {
         <div>
           <h2 className="mb-5 text-sm font-semibold uppercase tracking-[0.24em] text-slate-900">Contact us</h2>
           <div className="space-y-3 text-base text-slate-600">
-            <p>Mxpertz@email.com</p>
+            <p>adarsh@email.com</p>
             <p>+91 958 248 966</p>
             <p>Social media</p>
           </div>
@@ -96,7 +96,7 @@ export default function Footer() {
       </div>
 
       <div className="mt-12 border-t border-slate-200 pt-6 text-center text-slate-500">
-        Copyright © 2023 Dscode | All rights reserved
+        Copyright © 2026 Dscode | All rights reserved
       </div>
     </footer>
   );

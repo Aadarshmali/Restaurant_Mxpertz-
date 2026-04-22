@@ -62,14 +62,14 @@ export default function HeroSection() {
 
           <div className="flex flex-wrap items-center gap-5">
             <Link
-              href="#menu"
+              href="menu"
               className="inline-flex min-w-[11rem] items-center justify-center rounded-full bg-[#39db4a] px-8 py-4 text-lg font-bold text-white shadow-[0_24px_55px_-24px_rgba(57,219,74,0.95)] transition hover:bg-[#2fca3f]"
             >
               Order Now
             </Link>
 
             <Link
-              href="#about"
+              href="about"
               className="inline-flex items-center gap-4 text-lg font-semibold text-slate-700 transition hover:text-slate-950"
             >
               <span className="flex h-14 w-14 items-center justify-center rounded-full bg-white text-slate-900 shadow-[0_20px_50px_-26px_rgba(15,23,42,0.38)]">

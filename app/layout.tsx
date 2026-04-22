@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "mxpertz | Next.js Website",
+  title: "Delicious Bites - Savor the Flavor",
   description: "Responsive Next.js landing page built with Tailwind CSS and reusable components.",
 };
 

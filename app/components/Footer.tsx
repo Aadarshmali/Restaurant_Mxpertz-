@@ -89,7 +89,7 @@ export default function Footer() {
           <h2 className="mb-5 text-sm font-semibold uppercase tracking-[0.24em] text-slate-900">Contact us</h2>
           <div className="space-y-3 text-base text-slate-600">
             <p>adarsh@email.com</p>
-            <p>+91 958 248 966</p>
+            <p>+91 823 248 966</p>
             <p>Social media</p>
           </div>
         </div>
